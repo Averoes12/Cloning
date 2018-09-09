@@ -1,0 +1,135 @@
+
+.login {
+      display: inline-block;
+    font-weight: 400;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    border: 1px solid blue;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: .25rem;
+}
+
+.jumbotron {
+  text-align: center;
+  background: url(jumbotron.jpg);
+  background-size: cover;
+  min-heihgt: 300px;
+  color: white;
+
+}
+.btn{
+    display: inline-block;
+    font-weight: 400;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    border: 1px solid green;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: .25rem;
+}
+.card {
+transition: box-shadow .0.5s;
+}
+.card:hover {
+    box-shadow: 0px 20px 30px rgba(0, 0, 0, 0.5);
+}
+
+
+.Small {
+  font-size: smaller;
+  color: darkgray;
+}
+
+.Small-red {
+  font-size: smaller;
+  color: red;
+}
+
+a:hover {
+    text-decoration: none;
+    background-color: transparent;
+    color: gray;
+}
+
+hr {
+  margin-top: 30px;
+}
+
+.Warna {
+  background-color: #0bc72a;
+  color: white;
+}
+
+h4,h2,h3 {
+  text-align: center;
+  margin-bottom: 25px;
+}
+
+.anticon {
+  display: inline-block;
+    font-style: normal;
+    vertical-align: baseline;
+    text-align: center;
+    text-transform: none;
+    line-height: 1;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.Warna-putih {
+  background-color: white;
+  box-shadow: 1px 1px 1px 1px rgba(0,0,0,0.1)
+}
+
+.logo {
+  margin-left: 40%;
+}
+
+p {
+  text-align: center;
+}
+
+.Card {
+ transition: box-shadow .0.5s;
+}
+
+.Card:hover {
+    box-shadow: 0px 20px 30px rgba(0, 0, 0, 0.5);
+}
+
+.but {
+  margin-left: 43%;
+  display: inline-block;
+    font-weight: 400;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    border: 1px solid green;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: .25rem;
+    margin-bottom: -30px;
+}
+
+.box-shadow {
+  margin-top: -30px;
+}

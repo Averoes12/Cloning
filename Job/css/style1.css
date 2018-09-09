@@ -1,0 +1,31 @@
+.jumbotron {
+  text-align: center;
+  background: url(jumbotron.jpg);
+  background-size: cover;
+  min-heihgt: 300px;
+  color: white;
+}
+
+.des {
+  text-align: center;
+}
+
+.m {
+  text-align: center;
+}
+
+.m1 {
+  text-align: left;
+}
+
+p img {
+  width: 15px;
+}
+
+.btn {
+  text-align: center;
+}
+
+.but {
+   margin-left: 42%;
+}
